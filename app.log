@@ -1,0 +1,20 @@
+2026-02-24 22:41:54,151-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 22:41:54,151-INFO-Added job "bill" to job store "default"
+2026-02-24 22:41:54,151-INFO-Scheduler started
+2026-02-24 22:41:54,180-INFO-Will watch for changes in these directories: ['/Users/nafis/fastapi-practice/awesome-project/tickting']
+2026-02-24 22:41:54,180-INFO-Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-02-24 22:41:54,181-INFO-Started reloader process [48594] using WatchFiles
+2026-02-24 22:41:54,594-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 22:41:54,594-INFO-Added job "bill" to job store "default"
+2026-02-24 22:41:54,594-INFO-Scheduler started
+2026-02-24 22:41:54,594-INFO-Started server process [48597]
+2026-02-24 22:41:54,595-INFO-Waiting for application startup.
+2026-02-24 22:41:54,595-INFO-Application startup complete.
+2026-02-24 23:14:19,073-INFO-Shutting down
+2026-02-24 23:14:19,184-INFO-Waiting for application shutdown.
+2026-02-24 23:14:19,186-INFO-Application shutdown complete.
+2026-02-24 23:14:19,187-INFO-Finished server process [48597]
+2026-02-24 23:14:19,207-INFO-Stopping reloader process [48594]
+2026-02-24 23:14:22,004-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 23:14:22,004-INFO-Added job "bill" to job store "default"
+2026-02-24 23:14:22,004-INFO-Scheduler started
