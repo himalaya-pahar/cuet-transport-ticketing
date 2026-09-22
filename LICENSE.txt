@@ -1,0 +1,52 @@
+Non-Commercial Software License
+
+Copyright (c) 2026 Nafis Shahriar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software, subject to the following conditions:
+
+1. Non-Commercial Use Only
+   The Software may be used for personal, educational, academic, research,
+   and other non-commercial purposes.
+
+2. Commercial Use Prohibited
+   The Software may not be used for commercial purposes without obtaining
+   prior written permission from the copyright holder. Commercial use includes,
+   but is not limited to:
+   
+   - Selling the Software or modified versions of it;
+   - Using the Software as part of a paid product or service;
+   - Using the Software to generate revenue;
+   - Offering the Software as a paid service;
+   - Using the Software within a commercial product or business operation.
+
+3. Modification
+   You may modify the Software for non-commercial purposes.
+
+4. Distribution
+   You may copy and distribute the original or modified Software for
+   non-commercial purposes, provided that this license and the original
+   copyright notice are included with the distributed Software.
+
+5. Attribution
+   When distributing the Software or substantial portions of it, you must
+   retain the original copyright notice and clearly indicate if you have
+   modified the Software.
+
+6. No Sublicensing
+   You may not grant additional rights to the Software or sublicense it under
+   terms that permit commercial use.
+
+7. Permission for Commercial Use
+   Commercial use may be permitted only with explicit written permission
+   from the copyright holder.
+
+8. No Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
