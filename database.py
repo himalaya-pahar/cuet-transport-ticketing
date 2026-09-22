@@ -1,14 +1,32 @@
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-from sqlalchemy. ext.declarative import declarative_base
+from sqlalchemy import create_engine, event
+from sqlalchemy.orm import sessionmaker, DeclarativeBase
+from config import settings
 
-Base=declarative_base()
-SQLALCHEMY = "sqlite:///./transport.db"
-engine=create_engine(SQLALCHEMY,connect_args = {"check_same_thread": False} ) 
-SessionLocal = sessionmaker (bind=engine,autocommit=False, autoflush=False,) 
+
+class Base(DeclarativeBase):
+    pass
+
+
+connect_args = {"check_same_thread": False} if settings.DATABASE_URL.startswith("sqlite") else {}
+
+engine = create_engine(
+    settings.DATABASE_URL,
+    connect_args=connect_args
+)
+
+# Enable foreign keys in SQLite
+if settings.DATABASE_URL.startswith("sqlite"):
+    @event.listens_for(engine, "connect")
+    def set_sqlite_pragma(dbapi_connection, connection_record):
+        cursor = dbapi_connection.cursor()
+        cursor.execute("PRAGMA foreign_keys=ON")
+        cursor.close()
+
+SessionLocal = sessionmaker(bind=engine, autocommit=False, autoflush=False)
+
 
 def get_db():
-    db=SessionLocal()
+    db = SessionLocal()
     try:
         yield db
     finally:

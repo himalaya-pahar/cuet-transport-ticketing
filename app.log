@@ -18,3 +18,758 @@
 2026-02-24 23:14:22,004-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
 2026-02-24 23:14:22,004-INFO-Added job "bill" to job store "default"
 2026-02-24 23:14:22,004-INFO-Scheduler started
+2026-09-22 10:43:44,256-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 10:43:44,257-INFO-Added job "bill" to job store "default"
+2026-09-22 10:43:44,257-INFO-Scheduler started
+2026-09-22 10:43:44,285-INFO-Will watch for changes in these directories: ['/Users/nafis/cuet-transport-ticketing']
+2026-09-22 10:43:44,286-INFO-Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-09-22 10:43:44,286-INFO-Started reloader process [48082] using WatchFiles
+2026-09-22 10:43:45,438-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 10:43:45,438-INFO-Added job "bill" to job store "default"
+2026-09-22 10:43:45,438-INFO-Scheduler started
+2026-09-22 10:43:45,439-INFO-Started server process [48165]
+2026-09-22 10:43:45,439-INFO-Waiting for application startup.
+2026-09-22 10:43:45,439-INFO-Application startup complete.
+2026-09-22 10:45:23,504-INFO-3 changes detected
+2026-09-22 10:47:03,045-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 10:47:03,045-INFO-Added job "bill" to job store "default"
+2026-09-22 10:47:03,045-INFO-Scheduler started
+2026-09-22 10:47:03,069-INFO-Will watch for changes in these directories: ['/Users/nafis/cuet-transport-ticketing']
+2026-09-22 10:47:03,070-INFO-Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-09-22 10:47:03,070-INFO-Started reloader process [50379] using WatchFiles
+2026-09-22 10:47:03,488-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 10:47:03,488-INFO-Added job "bill" to job store "default"
+2026-09-22 10:47:03,488-INFO-Scheduler started
+2026-09-22 10:47:03,488-INFO-Started server process [50397]
+2026-09-22 10:47:03,488-INFO-Waiting for application startup.
+2026-09-22 10:47:03,489-INFO-Application startup complete.
+2026-09-22 10:55:09,734-INFO-1 change detected
+2026-09-22 10:56:39,865-INFO-1 change detected
+2026-09-22 10:56:42,397-INFO-1 change detected
+2026-09-22 10:56:50,491-INFO-1 change detected
+2026-09-22 10:56:54,988-INFO-1 change detected
+2026-09-22 11:11:25,242-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:11:25,242-INFO-Added job "bill" to job store "default"
+2026-09-22 11:11:25,243-INFO-Scheduler started
+2026-09-22 11:11:25,301-INFO-Will watch for changes in these directories: ['/Users/nafis/cuet-transport-ticketing']
+2026-09-22 11:11:25,301-INFO-Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-09-22 11:11:25,302-INFO-Started reloader process [53969] using WatchFiles
+2026-09-22 11:11:25,768-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:11:25,768-INFO-Added job "bill" to job store "default"
+2026-09-22 11:11:25,768-INFO-Scheduler started
+2026-09-22 11:11:25,768-INFO-Started server process [53971]
+2026-09-22 11:11:25,768-INFO-Waiting for application startup.
+2026-09-22 11:11:25,769-INFO-Application startup complete.
+2026-09-22 11:14:12,229-INFO-1 change detected
+2026-09-22 11:14:12,231-WARNING-WatchFiles detected changes in 'config.py'. Reloading...
+2026-09-22 11:14:12,299-INFO-Shutting down
+2026-09-22 11:14:12,401-INFO-Waiting for application shutdown.
+2026-09-22 11:14:12,402-INFO-Application shutdown complete.
+2026-09-22 11:14:12,402-INFO-Finished server process [53971]
+2026-09-22 11:14:12,771-INFO-1 change detected
+2026-09-22 11:14:13,001-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:14:13,001-INFO-Added job "bill" to job store "default"
+2026-09-22 11:14:13,001-INFO-Scheduler started
+2026-09-22 11:14:13,001-INFO-Started server process [54034]
+2026-09-22 11:14:13,001-INFO-Waiting for application startup.
+2026-09-22 11:14:13,002-INFO-Application startup complete.
+2026-09-22 11:14:18,406-INFO-1 change detected
+2026-09-22 11:14:25,527-INFO-1 change detected
+2026-09-22 11:14:31,259-INFO-1 change detected
+2026-09-22 11:14:36,986-INFO-1 change detected
+2026-09-22 11:14:36,986-WARNING-WatchFiles detected changes in 'database.py'. Reloading...
+2026-09-22 11:14:37,062-INFO-Shutting down
+2026-09-22 11:14:37,163-INFO-Waiting for application shutdown.
+2026-09-22 11:14:37,164-INFO-Application shutdown complete.
+2026-09-22 11:14:37,164-INFO-Finished server process [54034]
+2026-09-22 11:14:37,533-INFO-1 change detected
+2026-09-22 11:14:37,753-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:14:37,753-INFO-Added job "bill" to job store "default"
+2026-09-22 11:14:37,753-INFO-Scheduler started
+2026-09-22 11:14:37,753-INFO-Started server process [54076]
+2026-09-22 11:14:37,753-INFO-Waiting for application startup.
+2026-09-22 11:14:37,754-INFO-Application startup complete.
+2026-09-22 11:14:37,899-INFO-6 changes detected
+2026-09-22 11:14:44,775-INFO-1 change detected
+2026-09-22 11:14:44,775-WARNING-WatchFiles detected changes in 'models.py'. Reloading...
+2026-09-22 11:14:44,827-INFO-Shutting down
+2026-09-22 11:14:44,929-INFO-Waiting for application shutdown.
+2026-09-22 11:14:44,929-INFO-Application shutdown complete.
+2026-09-22 11:14:44,930-INFO-Finished server process [54076]
+2026-09-22 11:14:45,298-INFO-1 change detected
+2026-09-22 11:14:45,508-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:14:45,508-INFO-Added job "bill" to job store "default"
+2026-09-22 11:14:45,508-INFO-Scheduler started
+2026-09-22 11:14:45,508-INFO-Started server process [54089]
+2026-09-22 11:14:45,508-INFO-Waiting for application startup.
+2026-09-22 11:14:45,509-INFO-Application startup complete.
+2026-09-22 11:14:45,659-INFO-3 changes detected
+2026-09-22 11:14:51,322-INFO-1 change detected
+2026-09-22 11:14:51,323-WARNING-WatchFiles detected changes in 'security/token.py'. Reloading...
+2026-09-22 11:14:51,375-INFO-Shutting down
+2026-09-22 11:14:51,477-INFO-Waiting for application shutdown.
+2026-09-22 11:14:51,479-INFO-Application shutdown complete.
+2026-09-22 11:14:51,480-INFO-Finished server process [54089]
+2026-09-22 11:14:51,855-INFO-1 change detected
+2026-09-22 11:14:51,925-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:14:51,925-INFO-Added job "bill" to job store "default"
+2026-09-22 11:14:51,925-INFO-Scheduler started
+2026-09-22 11:14:51,926-INFO-Started server process [54102]
+2026-09-22 11:14:51,926-INFO-Waiting for application startup.
+2026-09-22 11:14:51,926-INFO-Application startup complete.
+2026-09-22 11:14:52,217-INFO-3 changes detected
+2026-09-22 11:14:58,327-INFO-1 change detected
+2026-09-22 11:14:58,327-WARNING-WatchFiles detected changes in 'security/oauth.py'. Reloading...
+2026-09-22 11:14:58,396-INFO-Shutting down
+2026-09-22 11:14:58,497-INFO-Waiting for application shutdown.
+2026-09-22 11:14:58,498-INFO-Application shutdown complete.
+2026-09-22 11:14:58,498-INFO-Finished server process [54102]
+2026-09-22 11:14:58,865-INFO-1 change detected
+2026-09-22 11:14:58,930-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:14:58,930-INFO-Added job "bill" to job store "default"
+2026-09-22 11:14:58,930-INFO-Scheduler started
+2026-09-22 11:14:58,930-INFO-Started server process [54114]
+2026-09-22 11:14:58,931-INFO-Waiting for application startup.
+2026-09-22 11:14:58,931-INFO-Application startup complete.
+2026-09-22 11:14:59,225-INFO-3 changes detected
+2026-09-22 11:15:07,460-INFO-1 change detected
+2026-09-22 11:15:07,461-WARNING-WatchFiles detected changes in 'schemas.py'. Reloading...
+2026-09-22 11:15:07,523-INFO-Shutting down
+2026-09-22 11:15:07,624-INFO-Waiting for application shutdown.
+2026-09-22 11:15:07,625-INFO-Application shutdown complete.
+2026-09-22 11:15:07,625-INFO-Finished server process [54114]
+2026-09-22 11:15:07,993-INFO-1 change detected
+2026-09-22 11:15:08,058-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:15:08,059-INFO-Added job "bill" to job store "default"
+2026-09-22 11:15:08,059-INFO-Scheduler started
+2026-09-22 11:15:08,059-INFO-Started server process [54129]
+2026-09-22 11:15:08,059-INFO-Waiting for application startup.
+2026-09-22 11:15:08,059-INFO-Application startup complete.
+2026-09-22 11:15:08,358-INFO-3 changes detected
+2026-09-22 11:15:16,246-INFO-1 change detected
+2026-09-22 11:15:16,246-WARNING-WatchFiles detected changes in 'repository/authentication.py'. Reloading...
+2026-09-22 11:15:16,348-INFO-Shutting down
+2026-09-22 11:15:16,449-INFO-Waiting for application shutdown.
+2026-09-22 11:15:16,450-INFO-Application shutdown complete.
+2026-09-22 11:15:16,451-INFO-Finished server process [54129]
+2026-09-22 11:15:16,822-INFO-1 change detected
+2026-09-22 11:15:16,893-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:15:16,893-INFO-Added job "bill" to job store "default"
+2026-09-22 11:15:16,893-INFO-Scheduler started
+2026-09-22 11:15:16,893-INFO-Started server process [54140]
+2026-09-22 11:15:16,894-INFO-Waiting for application startup.
+2026-09-22 11:15:16,894-INFO-Application startup complete.
+2026-09-22 11:15:17,186-INFO-3 changes detected
+2026-09-22 11:15:22,025-INFO-1 change detected
+2026-09-22 11:15:22,026-WARNING-WatchFiles detected changes in 'routers/authentication.py'. Reloading...
+2026-09-22 11:15:22,042-INFO-Shutting down
+2026-09-22 11:15:22,143-INFO-Waiting for application shutdown.
+2026-09-22 11:15:22,143-INFO-Application shutdown complete.
+2026-09-22 11:15:22,144-INFO-Finished server process [54140]
+2026-09-22 11:15:22,509-INFO-1 change detected
+2026-09-22 11:15:22,564-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:15:22,565-INFO-Added job "bill" to job store "default"
+2026-09-22 11:15:22,565-INFO-Scheduler started
+2026-09-22 11:15:22,565-INFO-Started server process [54152]
+2026-09-22 11:15:22,565-INFO-Waiting for application startup.
+2026-09-22 11:15:22,565-INFO-Application startup complete.
+2026-09-22 11:15:22,871-INFO-3 changes detected
+2026-09-22 11:15:29,317-INFO-1 change detected
+2026-09-22 11:15:29,318-WARNING-WatchFiles detected changes in 'repository/admin.py'. Reloading...
+2026-09-22 11:15:29,338-INFO-Shutting down
+2026-09-22 11:15:29,439-INFO-Waiting for application shutdown.
+2026-09-22 11:15:29,440-INFO-Application shutdown complete.
+2026-09-22 11:15:29,440-INFO-Finished server process [54152]
+2026-09-22 11:15:29,809-INFO-1 change detected
+2026-09-22 11:15:29,879-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:15:29,879-INFO-Added job "bill" to job store "default"
+2026-09-22 11:15:29,879-INFO-Scheduler started
+2026-09-22 11:15:29,879-INFO-Started server process [54168]
+2026-09-22 11:15:29,880-INFO-Waiting for application startup.
+2026-09-22 11:15:29,880-INFO-Application startup complete.
+2026-09-22 11:15:30,170-INFO-3 changes detected
+2026-09-22 11:15:37,759-INFO-1 change detected
+2026-09-22 11:15:37,761-WARNING-WatchFiles detected changes in 'routers/admin.py'. Reloading...
+2026-09-22 11:15:37,764-INFO-Shutting down
+2026-09-22 11:15:37,865-INFO-Waiting for application shutdown.
+2026-09-22 11:15:37,866-INFO-Application shutdown complete.
+2026-09-22 11:15:37,866-INFO-Finished server process [54168]
+2026-09-22 11:15:38,227-INFO-1 change detected
+2026-09-22 11:15:38,319-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:15:38,319-INFO-Added job "bill" to job store "default"
+2026-09-22 11:15:38,319-INFO-Scheduler started
+2026-09-22 11:15:38,319-INFO-Started server process [54185]
+2026-09-22 11:15:38,320-INFO-Waiting for application startup.
+2026-09-22 11:15:38,320-INFO-Application startup complete.
+2026-09-22 11:15:38,592-INFO-3 changes detected
+2026-09-22 11:15:45,523-INFO-1 change detected
+2026-09-22 11:15:45,524-WARNING-WatchFiles detected changes in 'repository/teacher.py'. Reloading...
+2026-09-22 11:15:45,602-INFO-Shutting down
+2026-09-22 11:15:45,703-INFO-Waiting for application shutdown.
+2026-09-22 11:15:45,704-INFO-Application shutdown complete.
+2026-09-22 11:15:45,704-INFO-Finished server process [54185]
+2026-09-22 11:15:46,068-INFO-1 change detected
+2026-09-22 11:15:46,200-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:15:46,200-INFO-Added job "bill" to job store "default"
+2026-09-22 11:15:46,200-INFO-Scheduler started
+2026-09-22 11:15:46,200-INFO-Started server process [54200]
+2026-09-22 11:15:46,201-INFO-Waiting for application startup.
+2026-09-22 11:15:46,201-INFO-Application startup complete.
+2026-09-22 11:15:46,433-INFO-3 changes detected
+2026-09-22 11:15:54,094-INFO-1 change detected
+2026-09-22 11:15:54,094-WARNING-WatchFiles detected changes in 'routers/teacher.py'. Reloading...
+2026-09-22 11:15:54,193-INFO-Shutting down
+2026-09-22 11:15:54,294-INFO-Waiting for application shutdown.
+2026-09-22 11:15:54,296-INFO-Application shutdown complete.
+2026-09-22 11:15:54,296-INFO-Finished server process [54200]
+2026-09-22 11:15:54,666-INFO-1 change detected
+2026-09-22 11:15:54,746-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:15:54,746-INFO-Added job "bill" to job store "default"
+2026-09-22 11:15:54,746-INFO-Scheduler started
+2026-09-22 11:15:54,746-INFO-Started server process [54213]
+2026-09-22 11:15:54,747-INFO-Waiting for application startup.
+2026-09-22 11:15:54,747-INFO-Application startup complete.
+2026-09-22 11:15:55,029-INFO-3 changes detected
+2026-09-22 11:16:08,225-INFO-1 change detected
+2026-09-22 11:16:08,226-WARNING-WatchFiles detected changes in 'repository/bus.py'. Reloading...
+2026-09-22 11:16:08,293-INFO-Shutting down
+2026-09-22 11:16:08,394-INFO-Waiting for application shutdown.
+2026-09-22 11:16:08,395-INFO-Application shutdown complete.
+2026-09-22 11:16:08,395-INFO-Finished server process [54213]
+2026-09-22 11:16:08,765-INFO-1 change detected
+2026-09-22 11:16:08,837-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:16:08,837-INFO-Added job "bill" to job store "default"
+2026-09-22 11:16:08,837-INFO-Scheduler started
+2026-09-22 11:16:08,837-INFO-Started server process [54227]
+2026-09-22 11:16:08,838-INFO-Waiting for application startup.
+2026-09-22 11:16:08,838-INFO-Application startup complete.
+2026-09-22 11:16:09,131-INFO-3 changes detected
+2026-09-22 11:16:15,949-INFO-1 change detected
+2026-09-22 11:16:15,949-WARNING-WatchFiles detected changes in 'routers/bus.py'. Reloading...
+2026-09-22 11:16:16,016-INFO-Shutting down
+2026-09-22 11:16:16,118-INFO-Waiting for application shutdown.
+2026-09-22 11:16:16,119-INFO-Application shutdown complete.
+2026-09-22 11:16:16,119-INFO-Finished server process [54227]
+2026-09-22 11:16:16,494-INFO-1 change detected
+2026-09-22 11:16:16,577-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:16:16,577-INFO-Added job "bill" to job store "default"
+2026-09-22 11:16:16,577-INFO-Scheduler started
+2026-09-22 11:16:16,577-INFO-Started server process [54244]
+2026-09-22 11:16:16,577-INFO-Waiting for application startup.
+2026-09-22 11:16:16,578-INFO-Application startup complete.
+2026-09-22 11:16:16,860-INFO-3 changes detected
+2026-09-22 11:16:26,945-INFO-1 change detected
+2026-09-22 11:16:26,946-WARNING-WatchFiles detected changes in 'repository/scan.py'. Reloading...
+2026-09-22 11:16:26,994-INFO-Shutting down
+2026-09-22 11:16:27,096-INFO-Waiting for application shutdown.
+2026-09-22 11:16:27,101-INFO-Application shutdown complete.
+2026-09-22 11:16:27,102-INFO-Finished server process [54244]
+2026-09-22 11:16:27,470-INFO-1 change detected
+2026-09-22 11:16:27,537-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:16:27,537-INFO-Added job "bill" to job store "default"
+2026-09-22 11:16:27,537-INFO-Scheduler started
+2026-09-22 11:16:27,537-INFO-Started server process [54258]
+2026-09-22 11:16:27,537-INFO-Waiting for application startup.
+2026-09-22 11:16:27,537-INFO-Application startup complete.
+2026-09-22 11:16:27,828-INFO-3 changes detected
+2026-09-22 11:16:33,598-INFO-1 change detected
+2026-09-22 11:16:33,599-WARNING-WatchFiles detected changes in 'routers/scan.py'. Reloading...
+2026-09-22 11:16:33,602-INFO-Shutting down
+2026-09-22 11:16:33,704-INFO-Waiting for application shutdown.
+2026-09-22 11:16:33,704-INFO-Application shutdown complete.
+2026-09-22 11:16:33,705-INFO-Finished server process [54258]
+2026-09-22 11:16:34,076-INFO-1 change detected
+2026-09-22 11:16:34,159-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:16:34,159-INFO-Added job "bill" to job store "default"
+2026-09-22 11:16:34,159-INFO-Scheduler started
+2026-09-22 11:16:34,161-INFO-Started server process [54272]
+2026-09-22 11:16:34,161-INFO-Waiting for application startup.
+2026-09-22 11:16:34,162-INFO-Application startup complete.
+2026-09-22 11:16:34,440-INFO-3 changes detected
+2026-09-22 11:16:45,385-INFO-1 change detected
+2026-09-22 11:16:45,386-WARNING-WatchFiles detected changes in 'repository/generatebill.py'. Reloading...
+2026-09-22 11:16:45,483-INFO-Shutting down
+2026-09-22 11:16:45,585-INFO-Waiting for application shutdown.
+2026-09-22 11:16:45,586-INFO-Application shutdown complete.
+2026-09-22 11:16:45,586-INFO-Finished server process [54272]
+2026-09-22 11:16:45,960-INFO-1 change detected
+2026-09-22 11:16:46,230-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:16:46,230-INFO-Added job "bill" to job store "default"
+2026-09-22 11:16:46,231-INFO-Scheduler started
+2026-09-22 11:16:46,232-INFO-Started server process [54288]
+2026-09-22 11:16:46,232-INFO-Waiting for application startup.
+2026-09-22 11:16:46,232-INFO-Application startup complete.
+2026-09-22 11:16:46,318-INFO-3 changes detected
+2026-09-22 11:16:56,272-INFO-1 change detected
+2026-09-22 11:16:56,272-WARNING-WatchFiles detected changes in 'repository/bill.py'. Reloading...
+2026-09-22 11:16:56,345-INFO-Shutting down
+2026-09-22 11:16:56,447-INFO-Waiting for application shutdown.
+2026-09-22 11:16:56,447-INFO-Application shutdown complete.
+2026-09-22 11:16:56,448-INFO-Finished server process [54288]
+2026-09-22 11:16:56,817-INFO-1 change detected
+2026-09-22 11:16:57,102-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:16:57,102-INFO-Added job "bill" to job store "default"
+2026-09-22 11:16:57,103-INFO-Scheduler started
+2026-09-22 11:16:57,103-INFO-Started server process [54303]
+2026-09-22 11:16:57,104-INFO-Waiting for application startup.
+2026-09-22 11:16:57,104-INFO-Application startup complete.
+2026-09-22 11:17:04,483-INFO-1 change detected
+2026-09-22 11:17:04,484-WARNING-WatchFiles detected changes in 'routers/bill.py'. Reloading...
+2026-09-22 11:17:04,583-INFO-Shutting down
+2026-09-22 11:17:04,685-INFO-Waiting for application shutdown.
+2026-09-22 11:17:04,685-INFO-Application shutdown complete.
+2026-09-22 11:17:04,686-INFO-Finished server process [54303]
+2026-09-22 11:17:05,052-INFO-1 change detected
+2026-09-22 11:17:05,178-INFO-Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:17:05,178-INFO-Added job "bill" to job store "default"
+2026-09-22 11:17:05,179-INFO-Scheduler started
+2026-09-22 11:17:05,179-INFO-Started server process [54318]
+2026-09-22 11:17:05,180-INFO-Waiting for application startup.
+2026-09-22 11:17:05,180-INFO-Application startup complete.
+2026-09-22 11:17:12,773-INFO-1 change detected
+2026-09-22 11:17:12,774-WARNING-WatchFiles detected changes in 'main.py'. Reloading...
+2026-09-22 11:17:12,868-INFO-Shutting down
+2026-09-22 11:17:12,970-INFO-Waiting for application shutdown.
+2026-09-22 11:17:12,971-INFO-Application shutdown complete.
+2026-09-22 11:17:12,971-INFO-Finished server process [54318]
+2026-09-22 11:17:13,334-INFO-1 change detected
+2026-09-22 11:17:13,528 - INFO - uvicorn.error - Started server process [54332]
+2026-09-22 11:17:13,528 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:17:13,528 - INFO - main - Starting up application...
+2026-09-22 11:17:13,530 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:17:13,530 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:17:13,530 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:17:13,530 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:17:13,530 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:17:13,696-INFO-9 changes detected
+2026-09-22 11:19:43,164-INFO-1 change detected
+2026-09-22 11:19:43,165-WARNING-WatchFiles detected changes in 'migrate_db.py'. Reloading...
+2026-09-22 11:19:43,242 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:19:43,345 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:19:43,346 - INFO - main - Shutting down application...
+2026-09-22 11:19:43,346 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:19:43,346 - INFO - main - APScheduler stopped.
+2026-09-22 11:19:43,346 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:19:43,347 - INFO - uvicorn.error - Finished server process [54332]
+2026-09-22 11:19:43,718-INFO-1 change detected
+2026-09-22 11:19:44,053 - INFO - uvicorn.error - Started server process [54446]
+2026-09-22 11:19:44,053 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:19:44,053 - INFO - main - Starting up application...
+2026-09-22 11:19:44,055 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:19:44,056 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:19:44,056 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:19:44,056 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:19:44,056 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:19:52,986-INFO-4 changes detected
+2026-09-22 11:20:10,895-INFO-1 change detected
+2026-09-22 11:20:10,896-WARNING-WatchFiles detected changes in 'test_app.py'. Reloading...
+2026-09-22 11:20:10,952 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:20:11,054 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:20:11,054 - INFO - main - Shutting down application...
+2026-09-22 11:20:11,054 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:20:11,054 - INFO - main - APScheduler stopped.
+2026-09-22 11:20:11,054 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:20:11,055 - INFO - uvicorn.error - Finished server process [54446]
+2026-09-22 11:20:11,421-INFO-1 change detected
+2026-09-22 11:20:11,502 - INFO - uvicorn.error - Started server process [54475]
+2026-09-22 11:20:11,502 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:20:11,502 - INFO - main - Starting up application...
+2026-09-22 11:20:11,504 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:20:11,504 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:20:11,504 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:20:11,504 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:20:11,504 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:20:18,867 - INFO - httpx - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2026-09-22 11:20:18,903 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:20:18,935 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:20:18,965-INFO-2 changes detected
+2026-09-22 11:20:18,967 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:20:18,969 - INFO - httpx - HTTP Request: GET http://testserver/admin/ "HTTP/1.1 403 Forbidden"
+2026-09-22 11:20:18,999 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:20:19,001 - INFO - httpx - HTTP Request: GET http://testserver/admin/ "HTTP/1.1 200 OK"
+2026-09-22 11:20:19,032 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:20:19,035 - INFO - httpx - HTTP Request: GET http://testserver/teacher/ "HTTP/1.1 200 OK"
+2026-09-22 11:20:19,036 - INFO - httpx - HTTP Request: GET http://testserver/teacher/9999 "HTTP/1.1 200 OK"
+2026-09-22 11:20:19,068 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:20:19,075 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 201 Created"
+2026-09-22 11:20:19,077 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 400 Bad Request"
+2026-09-22 11:20:19,108 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:20:19,109 - INFO - repository.generatebill - Starting billing generation for August-2026 (2026-08-01 00:00:00 to 2026-09-01 00:00:00)
+2026-09-22 11:20:19,112 - INFO - repository.generatebill - Successfully generated/updated 0 bills for August-2026
+2026-09-22 11:20:19,113 - INFO - httpx - HTTP Request: POST http://testserver/bill/generate "HTTP/1.1 200 OK"
+2026-09-22 11:20:19,115 - INFO - httpx - HTTP Request: GET http://testserver/bill/ "HTTP/1.1 200 OK"
+2026-09-22 11:20:19,330-INFO-4 changes detected
+2026-09-22 11:20:31,542-INFO-1 change detected
+2026-09-22 11:20:31,542-WARNING-WatchFiles detected changes in 'models.py'. Reloading...
+2026-09-22 11:20:31,625 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:20:31,727 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:20:31,727 - INFO - main - Shutting down application...
+2026-09-22 11:20:31,727 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:20:31,728 - INFO - main - APScheduler stopped.
+2026-09-22 11:20:31,728 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:20:31,728 - INFO - uvicorn.error - Finished server process [54475]
+2026-09-22 11:20:32,147-INFO-4 changes detected
+2026-09-22 11:20:32,193 - INFO - uvicorn.error - Started server process [54502]
+2026-09-22 11:20:32,193 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:20:32,194 - INFO - main - Starting up application...
+2026-09-22 11:20:32,195 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:20:32,195 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:20:32,195 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:20:32,195 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:20:32,196 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:20:39,157-INFO-1 change detected
+2026-09-22 11:20:39,157-WARNING-WatchFiles detected changes in 'repository/scan.py'. Reloading...
+2026-09-22 11:20:39,166 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:20:39,268 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:20:39,269 - INFO - main - Shutting down application...
+2026-09-22 11:20:39,269 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:20:39,269 - INFO - main - APScheduler stopped.
+2026-09-22 11:20:39,269 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:20:39,269 - INFO - uvicorn.error - Finished server process [54502]
+2026-09-22 11:20:39,639-INFO-1 change detected
+2026-09-22 11:20:39,711 - INFO - uvicorn.error - Started server process [54516]
+2026-09-22 11:20:39,711 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:20:39,712 - INFO - main - Starting up application...
+2026-09-22 11:20:39,713 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:20:39,713 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:20:39,713 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:20:39,713 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:20:39,713 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:20:39,997-INFO-3 changes detected
+2026-09-22 11:20:45,644-INFO-1 change detected
+2026-09-22 11:20:45,644-WARNING-WatchFiles detected changes in 'repository/generatebill.py'. Reloading...
+2026-09-22 11:20:45,682 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:20:45,784 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:20:45,785 - INFO - main - Shutting down application...
+2026-09-22 11:20:45,785 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:20:45,785 - INFO - main - APScheduler stopped.
+2026-09-22 11:20:45,785 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:20:45,785 - INFO - uvicorn.error - Finished server process [54516]
+2026-09-22 11:20:46,151-INFO-1 change detected
+2026-09-22 11:20:46,222 - INFO - uvicorn.error - Started server process [54530]
+2026-09-22 11:20:46,222 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:20:46,222 - INFO - main - Starting up application...
+2026-09-22 11:20:46,224 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:20:46,224 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:20:46,224 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:20:46,224 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:20:46,224 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:20:46,516-INFO-3 changes detected
+2026-09-22 11:21:01,994 - INFO - httpx - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,040 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,075 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,109 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,110 - INFO - httpx - HTTP Request: GET http://testserver/admin/ "HTTP/1.1 403 Forbidden"
+2026-09-22 11:21:02,143 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,145 - INFO - httpx - HTTP Request: GET http://testserver/admin/ "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,178 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,181 - INFO - httpx - HTTP Request: GET http://testserver/teacher/ "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,182 - INFO - httpx - HTTP Request: GET http://testserver/teacher/9999 "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,218 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,224 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 201 Created"
+2026-09-22 11:21:02,226 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 400 Bad Request"
+2026-09-22 11:21:02,261 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,262 - INFO - repository.generatebill - Starting billing generation for August-2026 (2026-08-01 00:00:00+00:00 to 2026-09-01 00:00:00+00:00)
+2026-09-22 11:21:02,265 - INFO - repository.generatebill - Successfully generated/updated 0 bills for August-2026
+2026-09-22 11:21:02,265 - INFO - httpx - HTTP Request: POST http://testserver/bill/generate "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,268 - INFO - httpx - HTTP Request: GET http://testserver/bill/ "HTTP/1.1 200 OK"
+2026-09-22 11:21:02,333-INFO-3 changes detected
+2026-09-22 11:21:02,696-INFO-1 change detected
+2026-09-22 11:21:13,617-INFO-1 change detected
+2026-09-22 11:21:22,724-INFO-2 changes detected
+2026-09-22 11:22:22,851-INFO-3 changes detected
+2026-09-22 11:22:43,261-INFO-1 change detected
+2026-09-22 11:22:43,261-WARNING-WatchFiles detected changes in 'routers/__init__.py'. Reloading...
+2026-09-22 11:22:43,364 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:22:43,467 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:22:43,468 - INFO - main - Shutting down application...
+2026-09-22 11:22:43,468 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:22:43,469 - INFO - main - APScheduler stopped.
+2026-09-22 11:22:43,469 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:22:43,470 - INFO - uvicorn.error - Finished server process [54530]
+2026-09-22 11:22:43,840-INFO-1 change detected
+2026-09-22 11:22:44,078 - INFO - uvicorn.error - Started server process [54618]
+2026-09-22 11:22:44,078 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:22:44,079 - INFO - main - Starting up application...
+2026-09-22 11:22:44,081 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:22:44,081 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:22:44,081 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:22:44,081 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:22:44,081 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:22:44,206-INFO-3 changes detected
+2026-09-22 11:22:50,461-INFO-1 change detected
+2026-09-22 11:22:50,461-WARNING-WatchFiles detected changes in 'repository/__init__.py'. Reloading...
+2026-09-22 11:22:50,550 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:22:50,652 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:22:50,653 - INFO - main - Shutting down application...
+2026-09-22 11:22:50,653 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:22:50,653 - INFO - main - APScheduler stopped.
+2026-09-22 11:22:50,653 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:22:50,654 - INFO - uvicorn.error - Finished server process [54618]
+2026-09-22 11:22:51,025-INFO-1 change detected
+2026-09-22 11:22:51,106 - INFO - uvicorn.error - Started server process [54635]
+2026-09-22 11:22:51,107 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:22:51,107 - INFO - main - Starting up application...
+2026-09-22 11:22:51,110 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:22:51,110 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:22:51,110 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:22:51,110 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:22:51,110 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:22:51,390-INFO-3 changes detected
+2026-09-22 11:23:35,731-INFO-1 change detected
+2026-09-22 11:23:35,736-WARNING-WatchFiles detected changes in 'security/__init__.py'. Reloading...
+2026-09-22 11:23:35,838 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:23:35,940 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:23:35,940 - INFO - main - Shutting down application...
+2026-09-22 11:23:35,940 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:23:35,941 - INFO - main - APScheduler stopped.
+2026-09-22 11:23:35,941 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:23:35,941 - INFO - uvicorn.error - Finished server process [54635]
+2026-09-22 11:23:36,311-INFO-1 change detected
+2026-09-22 11:23:36,611 - INFO - uvicorn.error - Started server process [54732]
+2026-09-22 11:23:36,611 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:23:36,611 - INFO - main - Starting up application...
+2026-09-22 11:23:36,615 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:23:36,615 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:23:36,615 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:23:36,615 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:23:36,615 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:23:36,676-INFO-3 changes detected
+2026-09-22 11:24:17,159-INFO-15 changes detected
+2026-09-22 11:24:23,640-INFO-1 change detected
+2026-09-22 11:24:23,640-WARNING-WatchFiles detected changes in 'main.py'. Reloading...
+2026-09-22 11:24:23,734 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:24:23,836 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:24:23,837 - INFO - main - Shutting down application...
+2026-09-22 11:24:23,837 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:24:23,837 - INFO - main - APScheduler stopped.
+2026-09-22 11:24:23,838 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:24:23,838 - INFO - uvicorn.error - Finished server process [54732]
+2026-09-22 11:24:24,211-INFO-1 change detected
+2026-09-22 11:24:24,576-INFO-3 changes detected
+2026-09-22 11:27:15,159-INFO-Stopping reloader process [53969]
+2026-09-22 11:28:14,307 - INFO - httpx - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,342 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,373 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,405 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,406 - INFO - httpx - HTTP Request: GET http://testserver/admin/ "HTTP/1.1 403 Forbidden"
+2026-09-22 11:28:14,436 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,438 - INFO - httpx - HTTP Request: GET http://testserver/admin/ "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,470 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,472 - INFO - httpx - HTTP Request: GET http://testserver/teacher/ "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,473 - INFO - httpx - HTTP Request: GET http://testserver/teacher/9999 "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,505 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,511 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 201 Created"
+2026-09-22 11:28:14,512 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 400 Bad Request"
+2026-09-22 11:28:14,544 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,546 - INFO - repository.generatebill - Starting billing generation for August-2026 (2026-08-01 00:00:00+00:00 to 2026-09-01 00:00:00+00:00)
+2026-09-22 11:28:14,548 - INFO - repository.generatebill - Successfully generated/updated 0 bills for August-2026
+2026-09-22 11:28:14,549 - INFO - httpx - HTTP Request: POST http://testserver/bill/generate "HTTP/1.1 200 OK"
+2026-09-22 11:28:14,551 - INFO - httpx - HTTP Request: GET http://testserver/bill/ "HTTP/1.1 200 OK"
+2026-09-22 11:28:53,309 - INFO - uvicorn.error - Will watch for changes in these directories: ['/Users/nafis/cuet-transport-ticketing']
+2026-09-22 11:28:53,310 - INFO - uvicorn.error - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2026-09-22 11:28:53,311 - INFO - uvicorn.error - Started reloader process [54960] using WatchFiles
+2026-09-22 11:28:53,752 - INFO - uvicorn.error - Started server process [54962]
+2026-09-22 11:28:53,753 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:28:53,753 - INFO - main - Starting up application...
+2026-09-22 11:28:53,757 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:28:53,757 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:28:53,757 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:28:53,757 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:28:53,757 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:34:56,604 - INFO - repository.generatebill - Starting billing generation for August-2026 (2026-08-01 00:00:00+00:00 to 2026-09-01 00:00:00+00:00)
+2026-09-22 11:34:56,615 - INFO - repository.generatebill - Successfully generated/updated 0 bills for August-2026
+2026-09-22 11:39:12,926 - INFO - watchfiles.main - 2 changes detected
+2026-09-22 11:43:27,095 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:43:27,097 - WARNING - uvicorn.error - WatchFiles detected changes in 'security/oauth.py'. Reloading...
+2026-09-22 11:43:27,144 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:43:27,246 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:43:27,247 - INFO - main - Shutting down application...
+2026-09-22 11:43:27,247 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:43:27,247 - INFO - main - APScheduler stopped.
+2026-09-22 11:43:27,247 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:43:27,248 - INFO - uvicorn.error - Finished server process [54962]
+2026-09-22 11:43:27,613 - INFO - watchfiles.main - 2 changes detected
+2026-09-22 11:43:27,825 - INFO - uvicorn.error - Started server process [55157]
+2026-09-22 11:43:27,825 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:43:27,827 - INFO - main - Starting up application...
+2026-09-22 11:43:27,829 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:43:27,829 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:43:27,829 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:43:27,829 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:43:27,829 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:43:27,974 - INFO - watchfiles.main - 3 changes detected
+2026-09-22 11:43:46,170 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:43:46,170 - WARNING - uvicorn.error - WatchFiles detected changes in 'repository/authentication.py'. Reloading...
+2026-09-22 11:43:46,229 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:43:46,331 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:43:46,331 - INFO - main - Shutting down application...
+2026-09-22 11:43:46,331 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:43:46,332 - INFO - main - APScheduler stopped.
+2026-09-22 11:43:46,332 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:43:46,332 - INFO - uvicorn.error - Finished server process [55157]
+2026-09-22 11:43:46,699 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:43:46,794 - INFO - uvicorn.error - Started server process [55182]
+2026-09-22 11:43:46,795 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:43:46,796 - INFO - main - Starting up application...
+2026-09-22 11:43:46,798 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:43:46,798 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:43:46,798 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:43:46,798 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:43:46,798 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:43:47,062 - INFO - watchfiles.main - 3 changes detected
+2026-09-22 11:44:01,141 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:44:01,141 - WARNING - uvicorn.error - WatchFiles detected changes in 'routers/authentication.py'. Reloading...
+2026-09-22 11:44:01,152 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:44:01,253 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:44:01,254 - INFO - main - Shutting down application...
+2026-09-22 11:44:01,254 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:44:01,254 - INFO - main - APScheduler stopped.
+2026-09-22 11:44:01,254 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:44:01,254 - INFO - uvicorn.error - Finished server process [55182]
+2026-09-22 11:44:01,620 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:44:01,695 - INFO - uvicorn.error - Started server process [55198]
+2026-09-22 11:44:01,695 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:44:01,695 - INFO - main - Starting up application...
+2026-09-22 11:44:01,697 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:44:01,697 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:44:01,697 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:44:01,697 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:44:01,697 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:44:01,982 - INFO - watchfiles.main - 3 changes detected
+2026-09-22 11:44:17,741 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:44:17,741 - WARNING - uvicorn.error - WatchFiles detected changes in 'test_app.py'. Reloading...
+2026-09-22 11:44:17,768 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:44:17,870 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:44:17,870 - INFO - main - Shutting down application...
+2026-09-22 11:44:17,870 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:44:17,870 - INFO - main - APScheduler stopped.
+2026-09-22 11:44:17,870 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:44:17,870 - INFO - uvicorn.error - Finished server process [55198]
+2026-09-22 11:44:18,238 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:44:18,312 - INFO - uvicorn.error - Started server process [55214]
+2026-09-22 11:44:18,313 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:44:18,313 - INFO - main - Starting up application...
+2026-09-22 11:44:18,315 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:44:18,315 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:44:18,315 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:44:18,315 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:44:18,315 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:44:36,576 - INFO - httpx - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,612 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,643 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,674 - INFO - httpx - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,705 - INFO - httpx - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,738 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,740 - INFO - httpx - HTTP Request: GET http://testserver/admin/ "HTTP/1.1 403 Forbidden"
+2026-09-22 11:44:36,773 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,775 - INFO - httpx - HTTP Request: GET http://testserver/admin/ "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,808 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,811 - INFO - httpx - HTTP Request: GET http://testserver/teacher/ "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,813 - INFO - httpx - HTTP Request: GET http://testserver/teacher/9999 "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,846 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,852 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 201 Created"
+2026-09-22 11:44:36,853 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 400 Bad Request"
+2026-09-22 11:44:36,886 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,888 - INFO - repository.generatebill - Starting billing generation for August-2026 (2026-08-01 00:00:00+00:00 to 2026-09-01 00:00:00+00:00)
+2026-09-22 11:44:36,891 - INFO - repository.generatebill - Successfully generated/updated 0 bills for August-2026
+2026-09-22 11:44:36,891 - INFO - httpx - HTTP Request: POST http://testserver/bill/generate "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,894 - INFO - httpx - HTTP Request: GET http://testserver/bill/ "HTTP/1.1 200 OK"
+2026-09-22 11:44:36,970 - INFO - watchfiles.main - 3 changes detected
+2026-09-22 11:44:37,331 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:45:08,324 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:46:40,494 - INFO - watchfiles.main - 2 changes detected
+2026-09-22 11:46:49,964 - INFO - watchfiles.main - 2 changes detected
+2026-09-22 11:47:29,943 - INFO - watchfiles.main - 2 changes detected
+2026-09-22 11:48:04,481 - INFO - repository.generatebill - Starting billing generation for August-2026 (2026-08-01 00:00:00+00:00 to 2026-09-01 00:00:00+00:00)
+2026-09-22 11:48:04,489 - INFO - repository.generatebill - Successfully generated/updated 0 bills for August-2026
+2026-09-22 11:48:09,612 - INFO - repository.generatebill - Starting billing generation for August-2026 (2026-08-01 00:00:00+00:00 to 2026-09-01 00:00:00+00:00)
+2026-09-22 11:48:09,616 - INFO - repository.generatebill - Successfully generated/updated 0 bills for August-2026
+2026-09-22 11:48:10,420 - INFO - repository.generatebill - Starting billing generation for August-2026 (2026-08-01 00:00:00+00:00 to 2026-09-01 00:00:00+00:00)
+2026-09-22 11:48:10,424 - INFO - repository.generatebill - Successfully generated/updated 0 bills for August-2026
+2026-09-22 11:56:43,040 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:56:43,041 - WARNING - uvicorn.error - WatchFiles detected changes in 'models.py'. Reloading...
+2026-09-22 11:56:43,062 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:56:43,166 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:56:43,167 - INFO - main - Shutting down application...
+2026-09-22 11:56:43,167 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:56:43,168 - INFO - main - APScheduler stopped.
+2026-09-22 11:56:43,168 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:56:43,168 - INFO - uvicorn.error - Finished server process [55214]
+2026-09-22 11:56:43,536 - INFO - watchfiles.main - 2 changes detected
+2026-09-22 11:56:43,809 - INFO - uvicorn.error - Started server process [55350]
+2026-09-22 11:56:43,810 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:56:43,810 - INFO - main - Starting up application...
+2026-09-22 11:56:43,813 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:56:43,813 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:56:43,813 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:56:43,813 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:56:43,813 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:56:43,901 - INFO - watchfiles.main - 3 changes detected
+2026-09-22 11:56:56,774 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:56:56,774 - WARNING - uvicorn.error - WatchFiles detected changes in 'schemas.py'. Reloading...
+2026-09-22 11:56:56,853 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:56:56,954 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:56:56,955 - INFO - main - Shutting down application...
+2026-09-22 11:56:56,955 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:56:56,955 - INFO - main - APScheduler stopped.
+2026-09-22 11:56:56,956 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:56:56,956 - INFO - uvicorn.error - Finished server process [55350]
+2026-09-22 11:56:57,325 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:56:57,407 - INFO - uvicorn.error - Started server process [55369]
+2026-09-22 11:56:57,407 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:56:57,408 - INFO - main - Starting up application...
+2026-09-22 11:56:57,409 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:56:57,410 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:56:57,410 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:56:57,410 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:56:57,410 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:56:57,689 - INFO - watchfiles.main - 3 changes detected
+2026-09-22 11:57:19,153 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:57:19,153 - WARNING - uvicorn.error - WatchFiles detected changes in 'repository/scan.py'. Reloading...
+2026-09-22 11:57:19,239 - INFO - uvicorn.error - Shutting down
+2026-09-22 11:57:19,343 - INFO - uvicorn.error - Waiting for application shutdown.
+2026-09-22 11:57:19,344 - INFO - main - Shutting down application...
+2026-09-22 11:57:19,344 - INFO - apscheduler.scheduler - Scheduler has been shut down
+2026-09-22 11:57:19,344 - INFO - main - APScheduler stopped.
+2026-09-22 11:57:19,344 - INFO - uvicorn.error - Application shutdown complete.
+2026-09-22 11:57:19,345 - INFO - uvicorn.error - Finished server process [55369]
+2026-09-22 11:57:19,719 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:57:19,806 - INFO - uvicorn.error - Started server process [55389]
+2026-09-22 11:57:19,806 - INFO - uvicorn.error - Waiting for application startup.
+2026-09-22 11:57:19,806 - INFO - main - Starting up application...
+2026-09-22 11:57:19,808 - INFO - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-22 11:57:19,808 - INFO - apscheduler.scheduler - Added job "generate_monthly_bills" to job store "default"
+2026-09-22 11:57:19,808 - INFO - apscheduler.scheduler - Scheduler started
+2026-09-22 11:57:19,808 - INFO - main - APScheduler initialized and running.
+2026-09-22 11:57:19,808 - INFO - uvicorn.error - Application startup complete.
+2026-09-22 11:57:20,085 - INFO - watchfiles.main - 3 changes detected
+2026-09-22 11:58:10,726 - INFO - watchfiles.main - 3 changes detected
+2026-09-22 11:58:19,175 - INFO - httpx - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,213 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,248 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,284 - INFO - httpx - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,316 - INFO - httpx - HTTP Request: POST http://testserver/login "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,349 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,351 - INFO - httpx - HTTP Request: GET http://testserver/admin/ "HTTP/1.1 403 Forbidden"
+2026-09-22 11:58:19,382 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,384 - INFO - httpx - HTTP Request: GET http://testserver/admin/ "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,418 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,421 - INFO - httpx - HTTP Request: GET http://testserver/teacher/ "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,423 - INFO - httpx - HTTP Request: GET http://testserver/teacher/9999 "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,456 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,462 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 201 Created"
+2026-09-22 11:58:19,463 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 400 Bad Request"
+2026-09-22 11:58:19,498 - INFO - httpx - HTTP Request: POST http://testserver/login/admin "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,500 - INFO - repository.generatebill - Starting billing generation for August-2026 (2026-08-01 00:00:00+00:00 to 2026-09-01 00:00:00+00:00)
+2026-09-22 11:58:19,503 - INFO - repository.generatebill - Successfully generated/updated 0 bills for August-2026
+2026-09-22 11:58:19,503 - INFO - httpx - HTTP Request: POST http://testserver/bill/generate "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,505 - INFO - httpx - HTTP Request: GET http://testserver/bill/ "HTTP/1.1 200 OK"
+2026-09-22 11:58:19,643 - INFO - watchfiles.main - 4 changes detected
+2026-09-22 11:58:29,205 - INFO - httpx - HTTP Request: POST http://testserver/login/bus "HTTP/1.1 200 OK"
+2026-09-22 11:58:29,214 - INFO - httpx - HTTP Request: POST http://testserver/scan/ "HTTP/1.1 201 Created"
+2026-09-22 11:58:29,296 - INFO - watchfiles.main - 3 changes detected
+2026-09-22 11:58:29,657 - INFO - watchfiles.main - 1 change detected
+2026-09-22 11:58:38,401 - INFO - watchfiles.main - 3 changes detected
+2026-09-22 12:00:13,167 - INFO - watchfiles.main - 2 changes detected
+2026-09-22 12:24:54,293 - INFO - watchfiles.main - 2 changes detected
