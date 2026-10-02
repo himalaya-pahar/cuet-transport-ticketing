@@ -1,4 +1,4 @@
-# 🚌 CUET Transport Ticketing & Billing Backend
+# CUET Transport Ticketing & Billing Backend
 
 An automated transport ticketing, scan logging, and monthly billing system designed for Chittagong University of Engineering and Technology (CUET).
 
@@ -6,7 +6,7 @@ Built with **FastAPI**, **SQLAlchemy 2.0**, and **APScheduler**, this system ena
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Framework:** [FastAPI](https://fastapi.tiangolo.com/) (Python 3.9+)
 * **Database & ORM:** SQLite / PostgreSQL with [SQLAlchemy 2.0](https://www.sqlalchemy.org/)
@@ -18,7 +18,7 @@ Built with **FastAPI**, **SQLAlchemy 2.0**, and **APScheduler**, this system ena
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 cuet-transport-ticketing/
@@ -54,7 +54,7 @@ cuet-transport-ticketing/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 * Python 3.9 or higher
@@ -112,7 +112,7 @@ Interactive API documentation will be available at:
 
 ---
 
-## 🔐 Authentication & Roles
+## Authentication & Roles
 
 The system uses **Role-Based JWT Tokens**. In Swagger UI (`/docs`), clicking the **Authorize** button presents two separate authentication schemes:
 * **`AdminAuth`**: Authenticates against `/login/admin` (e.g. `nafis` / `nafis`).
@@ -128,7 +128,7 @@ The system uses **Role-Based JWT Tokens**. In Swagger UI (`/docs`), clicking the
 
 ---
 
-## 📡 API Endpoints Overview
+## API Endpoints Overview
 
 ### Authentication (`/login`)
 * `POST /login` - Unified login (auto-detects Admin or Bus).
@@ -169,7 +169,7 @@ The system uses **Role-Based JWT Tokens**. In Swagger UI (`/docs`), clicking the
 
 ---
 
-## ⏰ Automated Monthly Billing
+## Automated Monthly Billing
 
 The background scheduler (APScheduler) triggers on the **1st of every month at midnight (00:00 UTC)**:
 * Calculates all trips recorded in the interval: `[first_day_of_previous_month, first_day_of_current_month)`.
@@ -178,7 +178,7 @@ The background scheduler (APScheduler) triggers on the **1st of every month at m
 
 ---
 
-## 🧪 Running Automated Tests
+## Running Automated Tests
 
 Run the test suite using Python's built-in `unittest`:
 ```bash
@@ -191,7 +191,7 @@ pytest test_app.py -v
 
 ---
 
-## 🔒 Security Best Practices
+## Security Best Practices
 
 1. **Environment Variables**: Never commit `.env` or production secrets to source control.
 2. **Key Rotation**: Change `SECRET_KEY` in production to a cryptographically secure 256-bit string (`openssl rand -hex 32`).
